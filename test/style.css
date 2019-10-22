@@ -1,0 +1,17 @@
+.line1 {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 0;
+  }
+  
+  .preferences {
+    display: flex;
+  }
+  
+  .preferences > * {
+    margin: 0 20px;
+  }
+  
+  .customer-info > * {
+    margin: 0 20px;
+  }
